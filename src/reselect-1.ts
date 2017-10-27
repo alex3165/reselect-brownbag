@@ -1,5 +1,4 @@
-// Lean implementation of reselect, createSelector without memoize and shit
-
+// Lean implementation of reselect, createSelector without memoize and props
 
 /*
 *  Note: The functions must not contain any logic they should just access a part of your state

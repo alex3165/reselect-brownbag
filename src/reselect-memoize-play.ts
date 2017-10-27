@@ -1,5 +1,5 @@
 import { state, StationDictionary, StateRoot } from './data';
-import { createSelector } from './reselect-memoize';
+import { createSelector } from 'reselect';
 
 // Compose selectors
 const selectStation = createSelector(
